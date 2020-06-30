@@ -6,4 +6,4 @@ marshmallow==2.17.0
 
 # local regression_model package
 # update with your local path
--e "C:\Users\chris\repos\deploying-machine-learning-models\packages\regression_model"
+-e "C:\Users\DELL-E6330\Downloads\CICD Course 1\deploying-machine-learning-models\packages\regression_model"
